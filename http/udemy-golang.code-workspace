@@ -1,0 +1,29 @@
+{
+  "folders": [
+    {
+      "path": "/Users/m.k.davydov/Projects/udemy-golang/cards"
+    },
+    {
+      "path": "/Users/m.k.davydov/Projects/udemy-golang/hello-world"
+    },
+    {
+      "path": "/Users/m.k.davydov/Projects/udemy-golang/even-odd"
+    },
+    {
+      "path": "/Users/m.k.davydov/Projects/udemy-golang/structs"
+    },
+    {
+      "path": "/Users/m.k.davydov/Projects/udemy-golang/map"
+    },
+    {
+      "path": "/Users/m.k.davydov/Projects/udemy-golang/interfaces"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "/Users/m.k.davydov/Projects/udemy-golang/channels"
+    }
+  ],
+  "settings": {}
+}
